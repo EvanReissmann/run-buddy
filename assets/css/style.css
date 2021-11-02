@@ -200,7 +200,7 @@ body {
       color: #fce138
   }
   .contact-info {
-    width: 410px;
+    /*width: 410px;*/
     display: inline-block;
     vertical-align: middle;
     text-align: left;
